@@ -1,0 +1,34 @@
+{
+  "races": [
+    {
+      "id": 1,
+      "name": "Trail des Crêtes",
+      "date": "2024-06-15",
+      "distance": 25,
+      "elevation": 1200,
+      "location": "Vosges",
+      "maxParticipants": 150,
+      "participants": [],
+      "description": "Magnifique parcours à travers les Vosges",
+      "organizer": "Club des Traileurs",
+      "difficultyLevel": "Intermédiaire",
+      "aidStations": 3,
+      "price": 30
+    },
+    {
+      "id": 2,
+      "name": "Ultra Trail du Massif",
+      "date": "2024-07-20",
+      "distance": 50,
+      "elevation": 2500,
+      "location": "Jura",
+      "maxParticipants": 100,
+      "participants": [],
+      "description": "Un ultra trail exigeant dans le Massif du Jura",
+      "organizer": "Club des Traileurs",
+      "difficultyLevel": "Expert",
+      "aidStations": 5,
+      "price": 50
+    }
+  ]
+}
